@@ -1,0 +1,26 @@
+{
+  "name": "be-admin",
+  "version": "1.0.0",
+  "description": "website back end admin",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fang0408/be-admin.git"
+  },
+  "author": "fang0408",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Fang0408/be-admin/issues"
+  },
+  "homepage": "https://github.com/Fang0408/be-admin#readme",
+  "dependencies": {
+    "egg": "^2.20.1"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.12.0"
+  }
+}
