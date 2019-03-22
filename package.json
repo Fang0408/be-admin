@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Fang0408/be-admin#readme",
   "dependencies": {
     "egg": "^2.20.1",
+    "element-ui": "^2.6.3",
     "vue": "^2.6.10",
     "vue-router": "^3.0.2",
     "vuex": "^3.1.0"
@@ -30,6 +31,7 @@
     "egg-bin": "^4.12.0",
     "egg-view-ejs": "^2.0.0",
     "webpack": "^4.29.6",
-    "webpack-cli": "^3.3.0"
+    "webpack-cli": "^3.3.0",
+    "webpack-dev-server": "^3.1.1"
   }
 }
